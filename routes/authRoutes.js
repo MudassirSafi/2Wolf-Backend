@@ -1,3 +1,4 @@
+// backend/routes/authRoutes.js
 import express from "express";
 import { signup, signin } from "../controllers/authController.js";
 
